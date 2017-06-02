@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0791e3d9-02ff-4779-9d82-e0d254ea0563" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/p06PicklingAndScaling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linearRegressionDataframe.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linearregression.pickle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -368,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496423730204</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="part 6">
+      <created>1496425906335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1496425906335</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -402,7 +410,8 @@
     <MESSAGE value="part 1 2 3" />
     <MESSAGE value="part 4" />
     <MESSAGE value="part 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="part 5" />
+    <MESSAGE value="part 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="part 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
